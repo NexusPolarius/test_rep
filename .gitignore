@@ -1,0 +1,17 @@
+.git/*
+env/
+flask_env/
+.flask_env/
+
+__pycache__/
+*.py[cod]
+
+.idea
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode
+
+*.sublime-project
+*.sublime-workspace
+
